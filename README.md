@@ -6,16 +6,15 @@ This is a project, related to my diploma thesis about visualization of articles 
 ## Table of contents
 0. [Project status](#Project-status)
 1. [Description](#Description)
-2. [Algortihm explanation](#Algorithm-explanation) *(IF NEEDED)*
-3. [Key features and functionalities](#Key-features-and-functionalities)
-4. [Structure](#Structure)
-5. [Installation instructions](#Installation-instructions)
-6. [Dependencies](#Dependencies)
-7. [System requirements](#System-requirements)
-8. [Usage examples](#Usage-examples)
-9. [API references](#API-references)
-10. [Bugs](#Bugs)
-11. [Future improvements](#Futute-improvements)
+2. [Key features and functionalities](#Key-features-and-functionalities)
+3. [Structure](#Structure)
+4. [Installation instructions](#Installation-instructions)
+5. [Dependencies](#Dependencies)
+6. [System requirements](#System-requirements)
+7. [Usage examples](#Usage-examples)
+8. [API references](#API-references)
+9. [Bugs](#Bugs)
+10. [Future improvements](#Futute-improvements)
 <br/>
 
 ## Project status
