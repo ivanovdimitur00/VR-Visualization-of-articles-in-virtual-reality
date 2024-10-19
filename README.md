@@ -16,6 +16,7 @@ This is a project, related to my diploma thesis about visualization of articles 
 9. [API references](#API-references)
 10. [Bugs](#Bugs)
 11. [Future improvements](#Futute-improvements)
+12. [Used resources](#Used-resources)
 <br/>
 
 ## Project status
