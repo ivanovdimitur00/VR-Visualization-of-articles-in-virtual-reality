@@ -34,9 +34,10 @@ The intended audiences for this application are my scientific advisor, myself an
 <br/>
 
 ## Project rquirements
-Requirements are listed on page 2 of [the diploma thesis](Diplomna_Rabota_Dimitar_Ivanov_2209013779.pdf).
-In short, I was to explore the theoretical and technical aspects of creating a virtual reality experience.
-Originally planned to use the Oculus VR SDK, but due to technical limitations, was swapped with Google's VR SDK.
+Requirements are listed on page 2 of [the diploma thesis](Diplomna_Rabota_Dimitar_Ivanov_2209013779.pdf). <br/>
+In short, I was to explore the theoretical and technical aspects of creating a virtual reality experience. <br/>
+Originally planned to use the Oculus VR SDK, but due to technical limitations, was swapped with Google's VR SDK. <br/>
+The project is meant to be created with Unity Engine.
 <br/>
 <br/>
 
@@ -54,19 +55,23 @@ On the technical side you can look at [simple Euclidean movement transform](http
    * Interactable objects that produce light, display a picture or produce sound. All toggleable;
    * Auto-calibration of the joystick by the application.
 <br/>
+<br/>
 
 ## Structutre
 The structure of the project is a standard Unity 3D project. The assets and builds are integrated inside of the file structure.
 <br/>
+<br/>
 
 ## Installation instructions
 Download the final build of the project [here](https://drive.google.com/file/d/1KfO8Gui4aZdsnAFkeubUMBXNEgM4UdOc/view?usp=sharing) and run on your device.
+<br/>
 <br/>
 
 ## Dependencies
 It is optional for your phone to have Google Cardboard installed to manage VR experiences. </br>
 Your phone must have an accelerometer and gyroscope. </br>
 To be able to move around in the environment, you must have [this controller](https://www.emag.bg/komplekt-vr-ochila-i-kontroler-shinecon-vr-c5-2/pd/DHP0THYBM/).
+<br/>
 <br/>
 
 ## System requirements
@@ -76,20 +81,32 @@ To be able to move around in the environment, you must have [this controller](ht
 | VR/AR services for mobile      |
  
 <br/>
+<br/>
 
 ## Usage examples
 Assuming the user has a controller, he can:
 * Walk around within a confined room of a house/apartment and collide with the walls and furniture.
-* toggle a red cubic textile light, switch on and off the tv and turn the computer monitor onn
-<br>
+* toggle a red cubic textile light, switch on and off the tv and turn the computer monitor on and off to listen to music.
+<br/>
 
 ## API references
-* If the project is used as a standalone library, describe the functions that can be called;
+Nothing to mention here.
+<br/>
 <br/>
 
 ## Bugs
-- [ ] describe any occuring bugs that need to be fixed;
+- [X] No bugs have been caught;
 <br/>
 
 ## Future improvements
-- [ ] describe some ideas you would want to implement into your project;
+- [ ] Introduce sound effects for walking and interacting;
+- [ ] Physics objects;
+- [ ] Animated objects;
+- [ ] Visible user avatar;
+- [ ] Hand controllers;
+- [ ] Context menus for texture swapping and placing/removing objects;
+- [ ] Modular pieces for room creation.
+<br/>
+
+## Used resources
+These can be viewed on the last page of [the diploma thesis](Diplomna_Rabota_Dimitar_Ivanov_2209013779.pdf). <br/>
