@@ -78,8 +78,9 @@ To be able to move around in the environment, you must have [this controller](ht
 <br/>
 
 ## Usage examples
-1. Make a tutorial on how the project can be used;
-2. Use numbered lists;
+Assuming the user has a controller, he can:
+* Walk around within a confined room of a house/apartment and collide with the walls and furniture.
+* toggle a red cubic textile light, switch on and off the tv and turn the computer monitor onn
 <br>
 
 ## API references
