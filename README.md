@@ -25,50 +25,56 @@ Completed and working. Not expecting changes.
 <br/>
 
 ## Description
-The purpose and goal of this project is to create an application to be able to visualize articles, such as furniture and interion in a virtual environment.
-The application is meant to be run on mobile phones, that have sensors that enable them to project virtual reality experiences.
+The purpose and goal of this project is to create an application to be able to visualize articles, such as furniture and interior in a virtual environment. </br>
+The application is meant to be run on mobile phones, that have sensors that enable them to project virtual reality experiences. </br>
 The technologies used to create this application are the Unity Engine, the C# programming language and google's VR SDK.
-
+</br></br>
 The intended audiences for this application are my scientific advisor, myself and theoretically, people that go shopping for furniture.
 <br/>
 <br/>
 
 ## Project rquirements
-Ongoing project (Work-in-progress). Changes are expected.
+Requirements are listed on page 2 of [the diploma thesis](Diplomna_Rabota_Dimitar_Ivanov_2209013779.pdf).
+In short, I was to explore the theoretical and technical aspects of creating a virtual reality experience.
+Originally planned to use the Oculus VR SDK, but due to technical limitations, was swapped with Google's VR SDK.
 <br/>
 <br/>
 
 ## Algorithm explanation
-This is an optional section. Either explain here how the algorithm works or place an external link. 
+On the theoretical side you can look at [Stereoscopy](https://en.wikipedia.org/wiki/Stereoscopy).
+On the technical side you can look at [simple Euclidean movement transform](https://en.wikipedia.org/wiki/Rigid_transformation).
 <br/>
 <br/>
 
 ## Key features and functionalities
-* Key feature 1;
-* Function 1; <br/>
-you can also section it with sentences - explanations.
+* ### Key features
+   * Users can move around in the environment using a controller;
+   * Users can interact with certain objects.
+* ### Functionalities
+   * Interactable objects that produce light, display a picture or produce sound. All toggleable;
+   * Auto-calibration of the joystick by the application.
 <br/>
 
 ## Structutre
-* Describe how the project files are arranged and what they mean;
-  * Use bullet points and short sentences;
+The structure of the project is a standard Unity 3D project. The assets and builds are integrated inside of the file structure.
 <br/>
 
 ## Installation instructions
-1. How to access and/or setup the project;
-2. Use a numbered list;
+Download the final build of the project [here](https://drive.google.com/file/d/1KfO8Gui4aZdsnAFkeubUMBXNEgM4UdOc/view?usp=sharing) and run on your device.
 <br/>
 
 ## Dependencies
-* Dependency 1;
-* Dependency 2;
+It is optional for your phone to have Google Cardboard installed to manage VR experiences. </br>
+Your phone must have an accelerometer and gyroscope. </br>
+To be able to move around in the environment, you must have [this controller](https://www.emag.bg/komplekt-vr-ochila-i-kontroler-shinecon-vr-c5-2/pd/DHP0THYBM/).
 <br/>
 
 ## System requirements
-| System requirements |
-| ------------------- | 
-| requirement 1       | 
-| requirement 2       | 
+| System requirements            |
+| ------------------------------ | 
+| Android KitKat 4.4.X or higher |
+| VR/AR services for mobile      |
+ 
 <br/>
 
 ## Usage examples
