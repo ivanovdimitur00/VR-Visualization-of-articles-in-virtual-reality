@@ -42,8 +42,10 @@ The project is meant to be created with Unity Engine.
 <br/>
 
 ## Algorithm explanation
-On the theoretical side you can look at [Stereoscopy](https://en.wikipedia.org/wiki/Stereoscopy).
-On the technical side you can look at [simple Euclidean movement transform](https://en.wikipedia.org/wiki/Rigid_transformation).
+On the theoretical side you can look at [Stereoscopy](https://en.wikipedia.org/wiki/Stereoscopy). <br/>
+On the technical side you can look at [simple Euclidean movement transform](https://en.wikipedia.org/wiki/Rigid_transformation). <br/>
+Here is a picture (code snippet) for the movement mechanic. <br/>
+![image](https://github.com/user-attachments/assets/15ae1b07-eece-48f6-a915-d7f4e3a84b9d)
 <br/>
 <br/>
 
